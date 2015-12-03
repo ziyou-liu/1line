@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="system" method="upgrade">
+	<name>Responsive Scroll Triggered Box - Render</name>
+	<author>Tassos Marinos</author>
+	<creationDate>August 2014</creationDate>
+	<copyright>Copyright (C) 2014 Tassos Marinos. All rights reserved.</copyright>
+	<license>GNU General Public License</license>
+	<authorEmail>info@tassos.gr</authorEmail>
+	<authorUrl>http://www.tassos.gr</authorUrl>
+	<version>1</version>
+	<description>
+		<![CDATA[
+		<p>Responsive Scroll Triggered Box Render Plugin<p>
+		→ Need support? Drop me an e-mail <a href="http://www.tassos.gr/contact?s=BackEndSupport" target="_blank">here</a><br>
+		→ Please post a rating and a review at the <a target="_blank" href="extensions.joomla.org/extensions/extension/style-a-design/popups-a-iframes/responsive-scroll-triggered-box-for-joomla">Joomla! Extensions Directory <i class="icon-thumbs-up"></i></a><br>
+		]]>
+	</description>
+	<files>
+		<filename plugin="rstbox">rstbox.php</filename>
+	</files>
+</extension>
